@@ -4,4 +4,4 @@ console.log('PedroV')
 
 console.log("Vai da ruim")
 
-console.log('Será que deu?')
+console.logo("sera que deu?")
